@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Association for Computing Machinery at UMass Lowell',
   tagline: 'Exploring Computer Science at UMass Lowell',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/umlacmlogo.png',
 
   // Set the production url of your site here
   url: 'https://uml-association-for-computing-machinery.github.io',
