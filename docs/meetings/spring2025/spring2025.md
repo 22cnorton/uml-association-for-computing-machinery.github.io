@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
-title: Full Schedule
-slug: /spring2025/spring2025
+title: 🌱 Spring 2025
 ---
 
 [![Website](https://img.shields.io/badge/Website-UML%20Engage-blue.svg?style=for-the-badge)](https://umasslowellclubs.campuslabs.com/engage/organization/acm)

@@ -1,7 +1,6 @@
 ---
 sidebar_position: 4
 title: Week 3
-slug: /spring2025/week3
 ---
 
 [![Website](https://img.shields.io/badge/Website-UML%20Engage-blue.svg?style=for-the-badge)](https://umasslowellclubs.campuslabs.com/engage/organization/acm)
